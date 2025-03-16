@@ -4,7 +4,8 @@ Just click the button and copy paste the generated content
 
 ## Todo
 
-Automate the allocation.
-Remove the HTML and table, create the logic in backend.
-Schedule to run every week at Tuesday night.
-Post the generated list into Slack group.
+### Automate
+
+1. Remove the HTML and table, create the logic in backend (Nodejs or Go).
+2. Schedule to run every week at Tuesday night.
+3. Post the generated list into Slack group.
