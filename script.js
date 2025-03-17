@@ -12,7 +12,6 @@ const students = [
   { name: "Paloma" },
   { name: "Annamani" },
   { name: "Sravani" },
-  { name: "Rukhsar" },
   { name: "Natalia" },
   { name: "Fatima" },
   { name: "Tejaswini" },
