@@ -20,7 +20,7 @@ const students = [
 ];
 
 const teachers = [
-  { name: "Henderson", isAvailable: true },
+  { name: "Henderson", isAvailable: false },
   { name: "Tifana", isAvailable: true },
   { name: "Iga", isAvailable: true },
   { name: "Engiber", isAvailable: true },
